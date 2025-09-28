@@ -1,5 +1,3 @@
-Coders Rank
-CyberDefenders
 Giphy
 HackerEarth
 LessWrong
@@ -7,6 +5,7 @@ PepperIT
 PocketStars
 Reddit
 Roblox
+RuneScape
 SlideShare
 Splice
 Spotify
