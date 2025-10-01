@@ -1,8 +1,10 @@
+BoardGameGeek
 Coders Rank
+CyberDefenders
 Giphy
 HackerEarth
-Itch.io
 LessWrong
+LushStories
 PepperIT
 PocketStars
 Reddit
@@ -15,3 +17,4 @@ kaskus
 opennet
 svidbook
 threads
+xHamster
