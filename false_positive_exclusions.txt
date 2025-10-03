@@ -2,6 +2,7 @@ BoardGameGeek
 Coders Rank
 Giphy
 HackerEarth
+LessWrong
 PepperIT
 PocketStars
 Reddit
@@ -11,5 +12,6 @@ Splice
 Spotify
 Topcoder
 kaskus
+opennet
 svidbook
 threads
