@@ -3,7 +3,6 @@ Coders Rank
 CyberDefenders
 Giphy
 HackerEarth
-Itch.io
 PepperIT
 PocketStars
 Reddit
@@ -12,7 +11,6 @@ SlideShare
 Splice
 Spotify
 Topcoder
-TryHackMe
 kaskus
 opennet
 svidbook
