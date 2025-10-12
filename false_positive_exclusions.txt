@@ -1,18 +1,15 @@
 BoardGameGeek
 Coders Rank
-Cults3D
 Giphy
 HackerEarth
 PepperIT
 PocketStars
 Reddit
 Roblox
-Slack
 SlideShare
 Splice
 Spotify
 Topcoder
 kaskus
-opennet
 svidbook
 threads
