@@ -1,6 +1,6 @@
 BoardGameGeek
-Coders Rank
 Giphy
+GitHub
 HackerEarth
 LessWrong
 PepperIT
@@ -15,4 +15,3 @@ kaskus
 opennet
 svidbook
 threads
-xHamster
