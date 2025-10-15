@@ -1,6 +1,5 @@
 BoardGameGeek
 Giphy
-GitHub
 HackerEarth
 LessWrong
 PepperIT
@@ -10,8 +9,8 @@ Roblox
 SlideShare
 Splice
 Spotify
-Topcoder
 kaskus
 opennet
+programming.dev
 svidbook
 threads
