@@ -1,7 +1,8 @@
 BoardGameGeek
+Chess
+Coders Rank
 Giphy
 HackerEarth
-LessWrong
 PepperIT
 PocketStars
 Reddit
@@ -9,8 +10,8 @@ Roblox
 SlideShare
 Splice
 Spotify
+Topcoder
 kaskus
-opennet
-programming.dev
 svidbook
 threads
+xHamster
