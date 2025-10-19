@@ -1,8 +1,11 @@
-Audiojungle
 BoardGameGeek
+CGTrader
+Coders Rank
 CyberDefenders
+Freelancer
 Giphy
 HackerEarth
+LessWrong
 PepperIT
 PocketStars
 Reddit
@@ -10,7 +13,6 @@ Roblox
 SlideShare
 Splice
 Spotify
-Tiendanube
 Topcoder
 kaskus
 opennet
