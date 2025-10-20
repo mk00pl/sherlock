@@ -1,8 +1,6 @@
 BoardGameGeek
-CGTrader
 Coders Rank
 CyberDefenders
-Freelancer
 Giphy
 HackerEarth
 LessWrong
@@ -11,9 +9,11 @@ PocketStars
 Reddit
 Roblox
 SlideShare
+Snapchat
 Splice
 Spotify
 Topcoder
+eintracht
 kaskus
 opennet
 svidbook
