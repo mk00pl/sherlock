@@ -1,9 +1,8 @@
 BoardGameGeek
 Coders Rank
-CyberDefenders
+Dribbble
 Giphy
 HackerEarth
-HackerRank
 PepperIT
 PocketStars
 Reddit
@@ -11,9 +10,7 @@ Roblox
 SlideShare
 Splice
 Spotify
-Topcoder
 kaskus
 opennet
 svidbook
 threads
-xHamster
