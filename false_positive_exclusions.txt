@@ -1,6 +1,4 @@
 BoardGameGeek
-Coders Rank
-Dribbble
 Giphy
 HackerEarth
 PepperIT
@@ -10,7 +8,9 @@ Roblox
 SlideShare
 Splice
 Spotify
+Topcoder
 kaskus
 opennet
 svidbook
 threads
+xHamster
