@@ -1,9 +1,9 @@
 BoardGameGeek
 Coders Rank
-Freelancer
+CyberDefenders
+Fosstodon
 Giphy
 HackerEarth
-Itch.io
 LessWrong
 PepperIT
 PocketStars
