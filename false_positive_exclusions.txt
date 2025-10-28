@@ -1,12 +1,10 @@
 BoardGameGeek
-Coders Rank
-CyberDefenders
-Fosstodon
 Giphy
 HackerEarth
 LessWrong
 PepperIT
 PocketStars
+Rajce.net
 Reddit
 Roblox
 SlideShare
@@ -14,6 +12,6 @@ Splice
 Spotify
 Topcoder
 kaskus
-opennet
 svidbook
 threads
+xHamster
