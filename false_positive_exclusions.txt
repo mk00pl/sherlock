@@ -1,4 +1,5 @@
 BoardGameGeek
+Coders Rank
 Giphy
 HackerEarth
 LessWrong
@@ -11,7 +12,7 @@ SlideShare
 Splice
 Spotify
 Topcoder
-kaskus
+opennet
 svidbook
 threads
 xHamster
