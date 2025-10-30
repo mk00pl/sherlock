@@ -8,11 +8,12 @@ PocketStars
 Rajce.net
 Reddit
 Roblox
+Slack
 SlideShare
 Splice
 Spotify
 Topcoder
+kaskus
 opennet
 svidbook
 threads
-xHamster
