@@ -1,11 +1,11 @@
 BoardGameGeek
 Coders Rank
-CyberDefenders
 Giphy
 HackerEarth
 LessWrong
 PepperIT
 PocketStars
+Rajce.net
 Reddit
 Roblox
 SlideShare
@@ -14,6 +14,6 @@ Spotify
 Topcoder
 kaskus
 opennet
+phpRU
 svidbook
 threads
-xHamster
