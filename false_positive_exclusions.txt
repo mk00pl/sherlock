@@ -1,9 +1,7 @@
 BoardGameGeek
-Coders Rank
 CyberDefenders
 Giphy
 HackerEarth
-HackerRank
 LessWrong
 PepperIT
 PocketStars
@@ -12,8 +10,8 @@ Roblox
 SlideShare
 Splice
 Spotify
-Topcoder
 kaskus
+opennet
 phpRU
 svidbook
 threads
