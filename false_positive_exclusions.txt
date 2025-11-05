@@ -1,6 +1,5 @@
 BoardGameGeek
-Carbonmade
-CyberDefenders
+Coders Rank
 Giphy
 HackerEarth
 LessWrong
@@ -12,7 +11,6 @@ SlideShare
 Splice
 Spotify
 kaskus
-opennet
-phpRU
 svidbook
 threads
+xHamster
