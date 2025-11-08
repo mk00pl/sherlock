@@ -1,10 +1,10 @@
 Archive.org
 BoardGameGeek
-Carbonmade
 Coders Rank
 CyberDefenders
 Giphy
 HackerEarth
+Itch.io
 LessWrong
 PepperIT
 PocketStars
@@ -17,4 +17,3 @@ kaskus
 phpRU
 svidbook
 threads
-xHamster
