@@ -1,14 +1,14 @@
 Archive.org
 BoardGameGeek
-Coders Rank
+CyberDefenders
 Giphy
+Gravatar
 HackerEarth
 LessWrong
 PepperIT
 PocketStars
 Reddit
 Roblox
-Slashdot
 SlideShare
 Splice
 Spotify
@@ -16,3 +16,4 @@ kaskus
 opennet
 svidbook
 threads
+xHamster
