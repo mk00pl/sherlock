@@ -2,7 +2,6 @@ Archive.org
 BoardGameGeek
 CyberDefenders
 Giphy
-Gravatar
 HackerEarth
 LessWrong
 PepperIT
@@ -13,7 +12,5 @@ SlideShare
 Splice
 Spotify
 kaskus
-opennet
 svidbook
 threads
-xHamster
