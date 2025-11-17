@@ -1,6 +1,7 @@
 Archive.org
 BoardGameGeek
 Coders Rank
+CyberDefenders
 Giphy
 HackerEarth
 LessWrong
@@ -8,11 +9,11 @@ PepperIT
 PocketStars
 Reddit
 Roblox
+RuneScape
 SlideShare
 Splice
 Spotify
 kaskus
-phpRU
+opennet
 svidbook
 threads
-xHamster
