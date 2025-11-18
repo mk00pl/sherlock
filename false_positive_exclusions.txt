@@ -1,19 +1,16 @@
 Archive.org
 BoardGameGeek
-Coders Rank
-CyberDefenders
 Giphy
 HackerEarth
-LessWrong
 PepperIT
 PocketStars
 Reddit
 Roblox
-RuneScape
 SlideShare
 Splice
 Spotify
 kaskus
 opennet
+phpRU
 svidbook
 threads
