@@ -1,6 +1,5 @@
 Archive.org
 BoardGameGeek
-Coders Rank
 Giphy
 HackerEarth
 PepperIT
