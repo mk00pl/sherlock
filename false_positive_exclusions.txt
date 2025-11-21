@@ -1,7 +1,9 @@
 Archive.org
 BoardGameGeek
+Freelancer
 Giphy
 HackerEarth
+Itch.io
 PepperIT
 PocketStars
 Reddit
