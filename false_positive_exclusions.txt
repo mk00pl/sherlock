@@ -1,9 +1,11 @@
+Archive of Our Own
 Archive.org
+Blogger
 BoardGameGeek
-Freelancer
+CGTrader
+Coders Rank
 Giphy
 HackerEarth
-Itch.io
 PepperIT
 PocketStars
 Reddit
@@ -13,6 +15,6 @@ Splice
 Spotify
 kaskus
 opennet
-phpRU
 svidbook
 threads
+xHamster
