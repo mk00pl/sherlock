@@ -1,10 +1,9 @@
-Archive of Our Own
 Archive.org
-Blogger
 BoardGameGeek
-CGTrader
 Coders Rank
+CyberDefenders
 Giphy
+Gumroad
 HackerEarth
 PepperIT
 PocketStars
@@ -17,4 +16,3 @@ kaskus
 opennet
 svidbook
 threads
-xHamster
