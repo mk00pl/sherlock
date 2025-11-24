@@ -1,9 +1,8 @@
 Archive.org
 BoardGameGeek
 Coders Rank
-CyberDefenders
+Freelancer
 Giphy
-Gumroad
 HackerEarth
 PepperIT
 PocketStars
@@ -16,3 +15,4 @@ kaskus
 opennet
 svidbook
 threads
+xHamster
