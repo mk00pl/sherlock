@@ -1,6 +1,6 @@
 Archive.org
 BoardGameGeek
-Coders Rank
+GeeksforGeeks
 Giphy
 HackerEarth
 LessWrong
@@ -12,6 +12,5 @@ SlideShare
 Splice
 Spotify
 kaskus
-opennet
 svidbook
 threads
