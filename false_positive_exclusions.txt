@@ -1,8 +1,5 @@
-Archive of Our Own
 Archive.org
 BoardGameGeek
-Dribbble
-Freelancer
 GeeksforGeeks
 Giphy
 HackerEarth
@@ -15,6 +12,6 @@ SlideShare
 Splice
 Spotify
 kaskus
-opennet
 svidbook
 threads
+xHamster
