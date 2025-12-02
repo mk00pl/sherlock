@@ -1,7 +1,7 @@
 Archive.org
-Audiojungle
 BoardGameGeek
 Coders Rank
+CyberDefenders
 GeeksforGeeks
 Giphy
 HackerEarth
@@ -13,7 +13,6 @@ Roblox
 SlideShare
 Splice
 Spotify
-eintracht
 kaskus
 opennet
 svidbook
