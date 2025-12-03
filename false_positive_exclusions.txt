@@ -2,10 +2,13 @@ Archive.org
 BoardGameGeek
 Coders Rank
 CyberDefenders
+Freelancer
 GeeksforGeeks
 Giphy
 HackerEarth
+Hubski
 LessWrong
+LushStories
 PepperIT
 PocketStars
 Reddit
