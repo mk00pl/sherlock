@@ -2,7 +2,6 @@ Archive.org
 BoardGameGeek
 Code Snippet Wiki
 Coders Rank
-CyberDefenders
 GeeksforGeeks
 Giphy
 HackerEarth
@@ -16,5 +15,7 @@ SlideShare
 Splice
 Spotify
 kaskus
+opennet
 svidbook
 threads
+xHamster
