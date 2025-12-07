@@ -1,14 +1,13 @@
 Archive.org
 BoardGameGeek
 Code Snippet Wiki
-CyberDefenders
+Coders Rank
 GeeksforGeeks
 Giphy
-GitHub
 HackerEarth
 Hubski
+Itch.io
 LessWrong
-OurDJTalk
 PepperIT
 PocketStars
 Reddit
@@ -17,5 +16,7 @@ SlideShare
 Splice
 Spotify
 kaskus
+opennet
 svidbook
 threads
+xHamster
