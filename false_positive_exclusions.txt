@@ -1,9 +1,10 @@
 Archive.org
 BoardGameGeek
 Code Snippet Wiki
-CyberDefenders
+Coders Rank
 GeeksforGeeks
 Giphy
+Gravatar
 HackerEarth
 Hubski
 LessWrong
@@ -11,11 +12,9 @@ PepperIT
 PocketStars
 Reddit
 Roblox
-Slack
 SlideShare
 Splice
 Spotify
-hunting
 kaskus
 opennet
 svidbook
