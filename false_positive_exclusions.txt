@@ -1,6 +1,8 @@
 Archive.org
 BoardGameGeek
 Code Snippet Wiki
+Coders Rank
+CyberDefenders
 Fandom
 GeeksforGeeks
 Giphy
@@ -14,6 +16,7 @@ Roblox
 SlideShare
 Splice
 Spotify
+Vero
 kaskus
 opennet
 svidbook
