@@ -1,15 +1,14 @@
 Archive.org
 BoardGameGeek
-Carbonmade
 Code Snippet Wiki
 Coders Rank
-CyberDefenders
 Fandom
 GeeksforGeeks
 Giphy
 HackerEarth
 Hubski
 LessWrong
+LiveJournal
 PepperIT
 PocketStars
 Reddit
@@ -17,8 +16,8 @@ Roblox
 SlideShare
 Splice
 Spotify
-Vero
 kaskus
 opennet
 svidbook
 threads
+xHamster
