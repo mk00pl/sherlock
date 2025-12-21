@@ -1,13 +1,12 @@
-Archive.org
 BoardGameGeek
 Code Snippet Wiki
-CyberDefenders
 Fandom
 GeeksforGeeks
 Giphy
 HackerEarth
 Hubski
 LessWrong
+Motherless
 PepperIT
 PocketStars
 Reddit
@@ -18,6 +17,7 @@ Splice
 Spotify
 kaskus
 opennet
+phpRU
 svidbook
 threads
 xHamster
