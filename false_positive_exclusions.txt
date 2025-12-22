@@ -1,12 +1,14 @@
+Archive.org
 BoardGameGeek
 Code Snippet Wiki
+CyberDefenders
 Fandom
 GeeksforGeeks
 Giphy
 HackerEarth
+HackerRank
 Hubski
 LessWrong
-Motherless
 PepperIT
 PocketStars
 Reddit
@@ -20,4 +22,3 @@ opennet
 phpRU
 svidbook
 threads
-xHamster
