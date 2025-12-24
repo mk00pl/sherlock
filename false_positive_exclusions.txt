@@ -1,7 +1,6 @@
 Archive.org
 BoardGameGeek
 Code Snippet Wiki
-CyberDefenders
 Fandom
 GeeksforGeeks
 Giphy
@@ -17,8 +16,6 @@ SlideShare
 Splice
 Spotify
 kaskus
-opennet
 phpRU
 svidbook
 threads
-xHamster
