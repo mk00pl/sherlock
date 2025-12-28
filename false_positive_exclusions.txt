@@ -5,6 +5,7 @@ Fandom
 GeeksforGeeks
 Giphy
 HackerEarth
+HackerRank
 Hubski
 LessWrong
 PepperIT
@@ -20,4 +21,3 @@ opennet
 phpRU
 svidbook
 threads
-xHamster
