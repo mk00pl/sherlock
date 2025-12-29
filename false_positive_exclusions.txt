@@ -1,11 +1,10 @@
-Archive.org
 BoardGameGeek
 Code Snippet Wiki
 Fandom
 GeeksforGeeks
 Giphy
+GitHub
 HackerEarth
-HackerRank
 Hubski
 LessWrong
 PepperIT
