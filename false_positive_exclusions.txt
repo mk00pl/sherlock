@@ -1,9 +1,10 @@
+Archive.org
 BoardGameGeek
 Code Snippet Wiki
+CyberDefenders
 Fandom
 GeeksforGeeks
 Giphy
-GitHub
 HackerEarth
 Hubski
 LessWrong
@@ -20,3 +21,4 @@ opennet
 phpRU
 svidbook
 threads
+xHamster
