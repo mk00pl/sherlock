@@ -1,6 +1,5 @@
 Archive.org
 BoardGameGeek
-Carbonmade
 Code Snippet Wiki
 CyberDefenders
 Fandom
@@ -8,6 +7,7 @@ GeeksforGeeks
 Giphy
 HackerEarth
 Hubski
+Itch.io
 LessWrong
 PepperIT
 PocketStars
