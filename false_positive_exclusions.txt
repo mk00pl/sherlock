@@ -1,9 +1,7 @@
 Archive.org
 BoardGameGeek
 Code Snippet Wiki
-Eintracht Frankfurt Forum
 Fandom
-GeeksforGeeks
 Giphy
 HackerEarth
 Hubski
@@ -18,7 +16,6 @@ Splice
 Spotify
 kaskus
 mercadolivre
-opennet
 phpRU
 svidbook
 threads
