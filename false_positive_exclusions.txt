@@ -2,6 +2,7 @@ Archive.org
 BoardGameGeek
 Code Snippet Wiki
 Fandom
+GeeksforGeeks
 Giphy
 HackerEarth
 Hubski
@@ -14,8 +15,10 @@ Scribd
 SlideShare
 Splice
 Spotify
+Tenor
 kaskus
 mercadolivre
+opennet
 phpRU
 svidbook
 threads
