@@ -17,6 +17,7 @@ SlideShare
 Smule
 Splice
 Spotify
+kaskus
 mercadolivre
 opennet
 phpRU
