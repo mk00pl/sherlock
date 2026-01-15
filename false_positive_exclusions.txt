@@ -1,14 +1,14 @@
 Archive.org
 BoardGameGeek
 Code Snippet Wiki
-CyberDefenders
 Fandom
 GeeksforGeeks
 Giphy
 HackerEarth
+HackerRank
 Hubski
+Itch.io
 LessWrong
-LiveJournal
 PepperIT
 PocketStars
 Reddit
@@ -24,3 +24,4 @@ opennet
 phpRU
 svidbook
 threads
+xHamster
