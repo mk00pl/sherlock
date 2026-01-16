@@ -1,19 +1,19 @@
 Archive.org
 BoardGameGeek
 Code Snippet Wiki
+DEV Community
 Fandom
 GeeksforGeeks
 Giphy
 HackerEarth
-HackerRank
 Hubski
-Itch.io
 LessWrong
 PepperIT
 PocketStars
 Reddit
 Roblox
 Scribd
+Slack
 SlideShare
 Smule
 Splice
@@ -24,4 +24,3 @@ opennet
 phpRU
 svidbook
 threads
-xHamster
