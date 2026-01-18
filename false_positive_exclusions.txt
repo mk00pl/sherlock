@@ -1,22 +1,21 @@
 Archive.org
 BoardGameGeek
 Code Snippet Wiki
+CyberDefenders
 Fandom
 GeeksforGeeks
 Giphy
 HackerEarth
 Hubski
 LessWrong
+LushStories
 PepperIT
 PocketStars
-Rajce.net
 Reddit
 Roblox
-RuneScape
 Scribd
 SlideShare
 Smule
-SpeakerDeck
 Splice
 Spotify
 kaskus
@@ -25,4 +24,3 @@ opennet
 phpRU
 svidbook
 threads
-xHamster
