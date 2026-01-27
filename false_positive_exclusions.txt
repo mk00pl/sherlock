@@ -1,7 +1,6 @@
 Archive.org
 BoardGameGeek
 Code Snippet Wiki
-Crevado
 CyberDefenders
 Fandom
 GeeksforGeeks
@@ -20,7 +19,7 @@ Splice
 Spotify
 kaskus
 mercadolivre
+opennet
 phpRU
 svidbook
 threads
-xHamster
