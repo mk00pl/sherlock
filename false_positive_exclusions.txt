@@ -1,8 +1,8 @@
 Archive.org
 BoardGameGeek
 Code Snippet Wiki
-CyberDefenders
 Fandom
+Freelancer
 GeeksforGeeks
 Giphy
 HackerEarth
@@ -12,6 +12,7 @@ PepperIT
 PocketStars
 Reddit
 Roblox
+RuneScape
 Scribd
 SlideShare
 Smule
@@ -19,7 +20,6 @@ Splice
 Spotify
 kaskus
 mercadolivre
-opennet
 phpRU
 svidbook
 threads
