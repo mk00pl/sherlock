@@ -1,7 +1,7 @@
 Archive.org
 BoardGameGeek
 Code Snippet Wiki
-DeviantART
+CyberDefenders
 Fandom
 GeeksforGeeks
 Giphy
@@ -15,12 +15,12 @@ Roblox
 Scribd
 SlideShare
 Smule
-SpeakerDeck
 Splice
 Spotify
 TryHackMe
 kaskus
 mercadolivre
+opennet
 phpRU
 svidbook
 threads
