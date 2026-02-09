@@ -1,9 +1,11 @@
 Archive.org
 BoardGameGeek
 Code Snippet Wiki
+CyberDefenders
 Fandom
 GeeksforGeeks
 Giphy
+GitHub
 HackerEarth
 Hubski
 LessWrong
@@ -19,7 +21,6 @@ Spotify
 TryHackMe
 kaskus
 mercadolivre
-opennet
 phpRU
 svidbook
 threads
