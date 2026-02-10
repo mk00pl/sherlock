@@ -5,7 +5,6 @@ CyberDefenders
 Fandom
 GeeksforGeeks
 Giphy
-GitHub
 HackerEarth
 Hubski
 LessWrong
