@@ -1,5 +1,6 @@
 Archive.org
 BoardGameGeek
+Carbonmade
 Code Snippet Wiki
 CyberDefenders
 Fandom
@@ -20,6 +21,8 @@ Spotify
 TryHackMe
 kaskus
 mercadolivre
+opennet
 phpRU
 svidbook
 threads
+xHamster
