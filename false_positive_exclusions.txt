@@ -2,10 +2,10 @@ Archive.org
 BoardGameGeek
 Code Snippet Wiki
 Fandom
+Flipboard
 GeeksforGeeks
 Giphy
 HackerEarth
-HackerRank
 Hubski
 PepperIT
 PocketStars
@@ -14,13 +14,12 @@ Roblox
 Scribd
 SlideShare
 Smule
+SpeakerDeck
 Splice
 Spotify
 TryHackMe
 kaskus
 mercadolivre
-opennet
 phpRU
 svidbook
 threads
-xHamster
