@@ -1,14 +1,12 @@
 Archive.org
 BoardGameGeek
-Carbonmade
 Code Snippet Wiki
-Cults3D
 Fandom
 GeeksforGeeks
 Giphy
+GitHub
 HackerEarth
 Hubski
-LushStories
 PepperIT
 PocketStars
 Reddit
@@ -21,8 +19,6 @@ Spotify
 TryHackMe
 kaskus
 mercadolivre
-opennet
 phpRU
 svidbook
 threads
-xHamster
