@@ -1,12 +1,10 @@
 Archive.org
-BoardGameGeek
 Code Snippet Wiki
-Fandom
 GeeksforGeeks
 Giphy
-GitHub
 HackerEarth
 Hubski
+LessWrong
 PepperIT
 PocketStars
 Reddit
@@ -19,6 +17,7 @@ Spotify
 TryHackMe
 kaskus
 mercadolivre
+opennet
 phpRU
 svidbook
 threads
