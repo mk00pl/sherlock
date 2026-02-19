@@ -1,5 +1,5 @@
 Archive.org
-Code Snippet Wiki
+CyberDefenders
 GeeksforGeeks
 Giphy
 HackerEarth
@@ -10,14 +10,15 @@ PocketStars
 Reddit
 Roblox
 Scribd
+Slack
 SlideShare
 Smule
 Splice
 Spotify
 TryHackMe
+eintracht
 kaskus
 mercadolivre
-opennet
 phpRU
 svidbook
 threads
