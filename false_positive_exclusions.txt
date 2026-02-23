@@ -4,7 +4,6 @@ CyberDefenders
 GeeksforGeeks
 Giphy
 HackerEarth
-HackerRank
 Hashnode
 Hubski
 LessWrong
@@ -20,7 +19,6 @@ Spotify
 TryHackMe
 kaskus
 mercadolivre
-opennet
 phpRU
 svidbook
 threads
