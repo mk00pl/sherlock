@@ -1,12 +1,11 @@
 Archive.org
-CyberDefenders
 GeeksforGeeks
 Giphy
 HackerEarth
 Hashnode
 Hubski
-Itch.io
 LessWrong
+LushStories
 PepperIT
 PocketStars
 Reddit
@@ -14,6 +13,7 @@ Roblox
 Scribd
 SlideShare
 Smule
+Snapchat
 Splice
 Spotify
 TryHackMe
