@@ -1,5 +1,4 @@
 Archive.org
-CyberDefenders
 GeeksforGeeks
 Giphy
 HackerEarth
@@ -7,7 +6,6 @@ Hashnode
 Hubski
 LessWrong
 LushStories
-OurDJTalk
 PepperIT
 PocketStars
 Reddit
@@ -20,6 +18,7 @@ Spotify
 TryHackMe
 kaskus
 mercadolivre
+minds
 opennet
 phpRU
 svidbook
