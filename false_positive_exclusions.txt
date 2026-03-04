@@ -1,5 +1,4 @@
 Archive.org
-CyberDefenders
 GeeksforGeeks
 Giphy
 HackerEarth
@@ -19,6 +18,8 @@ Spotify
 TryHackMe
 kaskus
 mercadolivre
+opennet
 phpRU
 svidbook
 threads
+xHamster
