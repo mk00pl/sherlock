@@ -1,4 +1,5 @@
 Archive.org
+CyberDefenders
 GeeksforGeeks
 Giphy
 HackerEarth
@@ -11,6 +12,7 @@ PocketStars
 Reddit
 Roblox
 Scribd
+Slack
 SlideShare
 Smule
 Splice
@@ -18,7 +20,6 @@ Spotify
 TryHackMe
 kaskus
 mercadolivre
-opennet
 phpRU
 svidbook
 threads
