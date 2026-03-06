@@ -1,5 +1,6 @@
 Archive.org
 CyberDefenders
+DEV Community
 GeeksforGeeks
 Giphy
 HackerEarth
@@ -9,18 +10,18 @@ LessWrong
 LushStories
 PepperIT
 PocketStars
+Rarible
 Reddit
 Roblox
 Scribd
-Slack
 SlideShare
 Smule
 Splice
 Spotify
+Strava
 TryHackMe
 kaskus
 mercadolivre
 phpRU
 svidbook
 threads
-xHamster
