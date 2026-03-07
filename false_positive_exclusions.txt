@@ -1,6 +1,5 @@
 Archive.org
 CyberDefenders
-DEV Community
 GeeksforGeeks
 Giphy
 HackerEarth
@@ -22,6 +21,7 @@ Strava
 TryHackMe
 kaskus
 mercadolivre
+opennet
 phpRU
 svidbook
 threads
