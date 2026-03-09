@@ -1,4 +1,5 @@
 Archive.org
+CyberDefenders
 GeeksforGeeks
 Giphy
 HackerEarth
@@ -12,7 +13,6 @@ Rarible
 Reddit
 Roblox
 Scribd
-Slack
 SlideShare
 Smule
 Splice
@@ -25,3 +25,4 @@ opennet
 phpRU
 svidbook
 threads
+xHamster
