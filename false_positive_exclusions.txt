@@ -1,4 +1,5 @@
 Archive.org
+Cults3D
 CyberDefenders
 GeeksforGeeks
 Giphy
@@ -15,6 +16,7 @@ Roblox
 Scribd
 SlideShare
 Smule
+SoylentNews
 Splice
 Spotify
 Strava
@@ -25,4 +27,3 @@ opennet
 phpRU
 svidbook
 threads
-xHamster
