@@ -1,6 +1,5 @@
 Archive.org
-Cults3D
-CyberDefenders
+Carbonmade
 GeeksforGeeks
 Giphy
 HackerEarth
@@ -14,9 +13,9 @@ Rarible
 Reddit
 Roblox
 Scribd
+Slack
 SlideShare
 Smule
-SoylentNews
 Splice
 Spotify
 Strava
