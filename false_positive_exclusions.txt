@@ -1,5 +1,4 @@
 Archive.org
-Carbonmade
 GeeksforGeeks
 Giphy
 HackerEarth
@@ -13,7 +12,6 @@ Rarible
 Reddit
 Roblox
 Scribd
-Slack
 SlideShare
 Smule
 Splice
