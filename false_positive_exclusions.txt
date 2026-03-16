@@ -1,5 +1,4 @@
 Archive.org
-CGTrader
 GeeksforGeeks
 Giphy
 HackerEarth
@@ -9,13 +8,14 @@ LessWrong
 LushStories
 PepperIT
 PocketStars
-Pornhub
 Rarible
 Reddit
 Roblox
 Scribd
+Slack
 SlideShare
 Smule
+SpeakerDeck
 Splice
 Spotify
 TryHackMe
