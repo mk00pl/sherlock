@@ -12,16 +12,14 @@ Rarible
 Reddit
 Roblox
 Scribd
-Slack
 SlideShare
 Smule
-SpeakerDeck
 Splice
 Spotify
 TryHackMe
+Wordnik
 kaskus
 mercadolivre
-opennet
 phpRU
 svidbook
 threads
