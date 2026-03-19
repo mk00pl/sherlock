@@ -5,10 +5,10 @@ HackerEarth
 Hashnode
 Hubski
 LessWrong
-LiveJournal
 LushStories
 PepperIT
 PocketStars
+Pornhub
 Rarible
 Reddit
 Roblox
@@ -17,13 +17,11 @@ SlideShare
 Smule
 Splice
 Spotify
-Strava
 TryHackMe
-Venmo
+eintracht
 kaskus
 mercadolivre
 opennet
 phpRU
 svidbook
 threads
-xHamster
