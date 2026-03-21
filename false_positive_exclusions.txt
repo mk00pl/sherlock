@@ -1,15 +1,14 @@
 Archive.org
-Audiojungle
 GeeksforGeeks
 Giphy
 HackerEarth
 Hashnode
 Hubski
+Itch.io
 LessWrong
 LushStories
 PepperIT
 PocketStars
-Pornhub
 Rarible
 Reddit
 Roblox
@@ -25,4 +24,3 @@ opennet
 phpRU
 svidbook
 threads
-xHamster
