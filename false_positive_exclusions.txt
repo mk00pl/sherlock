@@ -1,5 +1,5 @@
 Archive.org
-Audiojungle
+CyberDefenders
 GeeksforGeeks
 Giphy
 HackerEarth
@@ -18,7 +18,6 @@ SlideShare
 Smule
 Splice
 Spotify
-Strava
 TryHackMe
 kaskus
 mercadolivre
@@ -27,4 +26,3 @@ opennet
 phpRU
 svidbook
 threads
-xHamster
