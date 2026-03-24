@@ -1,5 +1,5 @@
 Archive.org
-CyberDefenders
+Audiojungle
 GeeksforGeeks
 Giphy
 HackerEarth
@@ -10,6 +10,7 @@ LushStories
 PepperIT
 PocketStars
 Pornhub
+Rajce.net
 Rarible
 Reddit
 Roblox
@@ -19,10 +20,10 @@ Smule
 Splice
 Spotify
 TryHackMe
+Wordnik
 kaskus
 mercadolivre
-minds
-opennet
 phpRU
 svidbook
 threads
+xHamster
