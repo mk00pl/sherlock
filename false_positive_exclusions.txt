@@ -1,10 +1,8 @@
 Archive.org
-Cults3D
-CyberDefenders
 DigitalSpy
+Fosstodon
 GeeksforGeeks
 Giphy
-Gravatar
 HackerEarth
 Hashnode
 Hubski
@@ -12,6 +10,7 @@ LessWrong
 LushStories
 PepperIT
 PocketStars
+Pornhub
 Rarible
 Reddit
 Roblox
@@ -21,9 +20,11 @@ Smule
 Splice
 Spotify
 TryHackMe
+interpals
 kaskus
 mercadolivre
 opennet
 phpRU
 svidbook
 threads
+xHamster
