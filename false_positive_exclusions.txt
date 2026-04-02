@@ -1,6 +1,5 @@
 7Cups
 Archive.org
-DeviantART
 GeeksforGeeks
 Giphy
 HackerEarth
@@ -10,9 +9,11 @@ LessWrong
 LushStories
 PepperIT
 PocketStars
+Pornhub
 Rarible
 Reddit
 Roblox
+RuneScape
 Scribd
 SlideShare
 Smule
@@ -22,7 +23,9 @@ TryHackMe
 interpals
 kaskus
 mercadolivre
+minds
 opennet
 phpRU
 svidbook
 threads
+xHamster
