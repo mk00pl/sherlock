@@ -1,8 +1,6 @@
 7Cups
 Archive.org
-Carbonmade
-Cults3D
-DeviantART
+CyberDefenders
 GeeksforGeeks
 Giphy
 HackerEarth
@@ -12,7 +10,6 @@ LessWrong
 LushStories
 PepperIT
 PocketStars
-Pornhub
 Rarible
 Reddit
 Roblox
@@ -23,10 +20,8 @@ Splice
 Spotify
 TryHackMe
 interpals
-kaskus
 mercadolivre
 opennet
 phpRU
 svidbook
 threads
-xHamster
