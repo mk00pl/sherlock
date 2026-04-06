@@ -4,12 +4,14 @@ CyberDefenders
 GeeksforGeeks
 Giphy
 HackerEarth
+HackerRank
 Hashnode
 Hubski
 LessWrong
 LushStories
 PepperIT
 PocketStars
+Pornhub
 Rarible
 Reddit
 Roblox
@@ -20,8 +22,10 @@ Splice
 Spotify
 TryHackMe
 interpals
+kaskus
 mercadolivre
 opennet
 phpRU
 svidbook
 threads
+xHamster
