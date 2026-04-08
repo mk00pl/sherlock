@@ -1,10 +1,9 @@
 7Cups
 Archive.org
 Bandcamp
-CGTrader
+CyberDefenders
 GeeksforGeeks
 Giphy
-GitHub
 HackerEarth
 Hashnode
 Hubski
@@ -22,7 +21,6 @@ Smule
 Splice
 Spotify
 TryHackMe
-YouNow
 interpals
 kaskus
 mercadolivre
