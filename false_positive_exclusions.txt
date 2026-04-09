@@ -1,17 +1,16 @@
 7Cups
 Archive.org
 Bandcamp
-CyberDefenders
 GeeksforGeeks
 Giphy
 HackerEarth
 Hashnode
 Hubski
 LessWrong
+LiveJournal
 LushStories
 PepperIT
 PocketStars
-Pornhub
 Rarible
 Reddit
 Roblox
@@ -28,4 +27,3 @@ opennet
 phpRU
 svidbook
 threads
-xHamster
