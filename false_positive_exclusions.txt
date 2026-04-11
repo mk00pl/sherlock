@@ -1,6 +1,8 @@
 7Cups
 Archive.org
 Bandcamp
+Cults3D
+CyberDefenders
 GeeksforGeeks
 Giphy
 HackerEarth
@@ -24,8 +26,8 @@ Velomania
 interpals
 kaskus
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
 threads
+xHamster
