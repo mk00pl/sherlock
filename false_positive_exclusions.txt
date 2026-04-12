@@ -1,10 +1,9 @@
 7Cups
 Archive.org
 Bandcamp
-Cults3D
-CyberDefenders
 GeeksforGeeks
 Giphy
+GitHub
 HackerEarth
 Hashnode
 Hubski
@@ -12,7 +11,7 @@ LessWrong
 LushStories
 PepperIT
 PocketStars
-Pornhub
+Rajce.net
 Rarible
 Reddit
 Roblox
@@ -22,7 +21,6 @@ Smule
 Splice
 Spotify
 TryHackMe
-Velomania
 interpals
 kaskus
 mercadolivre
@@ -30,4 +28,3 @@ opennet
 phpRU
 svidbook
 threads
-xHamster
