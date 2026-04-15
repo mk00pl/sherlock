@@ -4,6 +4,7 @@ Archive.org
 Bandcamp
 GeeksforGeeks
 Giphy
+GitHub
 HackerEarth
 Hashnode
 Hubski
@@ -21,7 +22,7 @@ Smule
 Splice
 Spotify
 TryHackMe
-Velomania
+dailykos
 interpals
 kaskus
 mercadolivre
@@ -29,4 +30,3 @@ opennet
 phpRU
 svidbook
 threads
-xHamster
