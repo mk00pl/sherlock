@@ -4,7 +4,6 @@ Archive.org
 Bandcamp
 GeeksforGeeks
 Giphy
-GitHub
 HackerEarth
 Hashnode
 Hubski
@@ -24,9 +23,9 @@ Spotify
 TryHackMe
 dailykos
 interpals
-kaskus
 mercadolivre
 opennet
 phpRU
 svidbook
 threads
+xHamster
