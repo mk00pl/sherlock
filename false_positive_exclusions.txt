@@ -2,7 +2,6 @@
 Apple Discussions
 Archive.org
 Bandcamp
-CyberDefenders
 GeeksforGeeks
 Giphy
 HackerEarth
@@ -12,15 +11,18 @@ LessWrong
 LushStories
 PepperIT
 PocketStars
+Pornhub
 Rarible
 Reddit
 Roblox
 Scribd
+Slack
 SlideShare
 Smule
 Splice
 Spotify
 TryHackMe
+Velomania
 dailykos
 interpals
 kaskus
