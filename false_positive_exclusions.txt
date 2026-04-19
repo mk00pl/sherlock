@@ -2,6 +2,7 @@
 Apple Discussions
 Archive.org
 Bandcamp
+Cults3D
 GeeksforGeeks
 Giphy
 HackerEarth
@@ -16,7 +17,6 @@ Rarible
 Reddit
 Roblox
 Scribd
-Slack
 SlideShare
 Smule
 Splice
