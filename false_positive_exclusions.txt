@@ -2,7 +2,6 @@
 Apple Discussions
 Archive.org
 Bandcamp
-Cults3D
 GeeksforGeeks
 Giphy
 HackerEarth
@@ -31,3 +30,4 @@ opennet
 phpRU
 svidbook
 threads
+xHamster
