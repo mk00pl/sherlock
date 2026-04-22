@@ -2,6 +2,7 @@
 Apple Discussions
 Archive.org
 Bandcamp
+Cults3D
 GeeksforGeeks
 Giphy
 HackerEarth
@@ -10,17 +11,17 @@ Hubski
 LessWrong
 LushStories
 PepperIT
-Pornhub
 Rarible
 Reddit
 Roblox
 Scribd
+Slack
 SlideShare
 Smule
+SpeakerDeck
 Splice
 Spotify
 TryHackMe
-Velomania
 dailykos
 interpals
 kaskus
@@ -29,4 +30,3 @@ opennet
 phpRU
 svidbook
 threads
-xHamster
