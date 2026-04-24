@@ -7,8 +7,10 @@ Giphy
 HackerEarth
 Hashnode
 Hubski
+LessWrong
 LushStories
 PepperIT
+Pornhub
 Rarible
 Reddit
 Roblox
@@ -26,3 +28,4 @@ opennet
 phpRU
 svidbook
 threads
+xHamster
