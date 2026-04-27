@@ -1,5 +1,6 @@
 7Cups
 Airliners
+Anilist
 Apple Discussions
 Archive.org
 Bandcamp
@@ -11,6 +12,7 @@ Hubski
 LessWrong
 LushStories
 PepperIT
+Pornhub
 Rarible
 Reddit
 Roblox
@@ -29,3 +31,4 @@ opennet
 phpRU
 svidbook
 threads
+xHamster
