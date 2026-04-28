@@ -1,11 +1,13 @@
 7Cups
 Airliners
-Anilist
 Apple Discussions
 Archive.org
 Bandcamp
+Cults3D
+CyberDefenders
 GeeksforGeeks
 Giphy
+Gumroad
 HackerEarth
 Hashnode
 Hubski
@@ -27,6 +29,7 @@ dailykos
 interpals
 kaskus
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
