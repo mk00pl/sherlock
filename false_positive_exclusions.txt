@@ -2,8 +2,9 @@
 Airliners
 Apple Discussions
 Archive.org
-Audiojungle
+ArtStation
 Bandcamp
+Envato Forum
 GeeksforGeeks
 Giphy
 HackerEarth
@@ -21,7 +22,6 @@ Smule
 Splice
 Spotify
 TryHackMe
-Velomania
 dailykos
 interpals
 kaskus
