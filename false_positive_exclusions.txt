@@ -4,19 +4,21 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Cults3D
+CyberDefenders
 Envato Forum
 GeeksforGeeks
 Giphy
 HackerEarth
 Hashnode
 Hubski
-Itch.io
 LessWrong
 LushStories
 PepperIT
 Rarible
 Reddit
 Roblox
+RuneScape
 Scribd
 SlideShare
 Smule
@@ -25,6 +27,7 @@ Spotify
 TryHackMe
 Velomania
 dailykos
+igromania
 interpals
 kaskus
 mercadolivre
