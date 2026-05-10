@@ -4,23 +4,24 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Cults3D
-Eintracht Frankfurt Forum
+CGTrader
 Envato Forum
 GeeksforGeeks
 Giphy
 HackerEarth
 Hashnode
 Hubski
+Itch.io
 LessWrong
 LushStories
 Motherless
-OurDJTalk
 PepperIT
+Pornhub
 Rarible
 Reddit
 Roblox
 Scribd
+Slack
 SlideShare
 Smule
 Splice
@@ -36,3 +37,4 @@ opennet
 phpRU
 svidbook
 threads
+xHamster
