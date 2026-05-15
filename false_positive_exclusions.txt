@@ -4,12 +4,15 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Carbonmade
 Envato Forum
 GeeksforGeeks
 Giphy
+Gravatar
 HackerEarth
 Hashnode
 Hubski
+LessWrong
 LushStories
 Motherless
 PepperIT
@@ -24,6 +27,7 @@ Splice
 Spotify
 TryHackMe
 Velomania
+authorSTREAM
 dailykos
 igromania
 interpals
