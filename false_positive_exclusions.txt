@@ -4,17 +4,14 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Carbonmade
 Envato Forum
 GeeksforGeeks
 Giphy
 HackerEarth
 Hashnode
 Hubski
-LessWrong
 LushStories
 PepperIT
-Pornhub
 Rarible
 Reddit
 Roblox
@@ -35,4 +32,3 @@ opennet
 phpRU
 svidbook
 threads
-xHamster
