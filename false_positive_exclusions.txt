@@ -4,14 +4,12 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-CyberDefenders
 Envato Forum
 GeeksforGeeks
 Giphy
 HackerEarth
 Hashnode
 Hubski
-Itch.io
 LushStories
 PepperIT
 Rarible
@@ -22,6 +20,7 @@ SlideShare
 Smule
 Splice
 Spotify
+Strava
 TryHackMe
 Velomania
 authorSTREAM
