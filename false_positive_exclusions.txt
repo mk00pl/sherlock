@@ -4,6 +4,8 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+CyberDefenders
+Eintracht Frankfurt Forum
 Envato Forum
 GeeksforGeeks
 Giphy
@@ -35,4 +37,3 @@ opennet
 phpRU
 svidbook
 threads
-xHamster
