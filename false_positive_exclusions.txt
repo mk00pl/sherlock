@@ -4,7 +4,6 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Carbonmade
 Envato Forum
 GeeksforGeeks
 Giphy
@@ -14,11 +13,11 @@ Hubski
 LessWrong
 LushStories
 PepperIT
+Pornhub
 Rarible
 Reddit
 Replit.com
 Roblox
-RuneScape
 Scribd
 SlideShare
 Smule
@@ -32,6 +31,7 @@ igromania
 interpals
 kaskus
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
