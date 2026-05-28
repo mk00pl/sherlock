@@ -3,6 +3,7 @@ Airliners
 Apple Discussions
 Archive.org
 ArtStation
+Audiojungle
 Bandcamp
 CyberDefenders
 Envato Forum
@@ -13,17 +14,16 @@ Hashnode
 Hubski
 LushStories
 PepperIT
+Pornhub
 Rarible
 Reddit
 Replit.com
 Roblox
 Scribd
-Slack
 SlideShare
 Smule
 Splice
 Spotify
-Strava
 TryHackMe
 Velomania
 authorSTREAM
@@ -36,3 +36,4 @@ opennet
 phpRU
 svidbook
 threads
+xHamster
