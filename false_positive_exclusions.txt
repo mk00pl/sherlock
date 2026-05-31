@@ -4,8 +4,6 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Cults3D
-CyberDefenders
 Envato Forum
 GeeksforGeeks
 Giphy
@@ -15,10 +13,12 @@ Hubski
 LessWrong
 LushStories
 PepperIT
+Pornhub
 Rarible
 Reddit
 Replit.com
 Roblox
+RuneScape
 Scribd
 SlideShare
 Smule
@@ -36,3 +36,4 @@ opennet
 phpRU
 svidbook
 threads
+xHamster
