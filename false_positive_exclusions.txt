@@ -10,13 +10,15 @@ Envato Forum
 GeeksforGeeks
 Giphy
 HackerEarth
+Hashnode
 Hubski
 LushStories
-OurDJTalk
 PepperIT
+Pornhub
 Rarible
 Reddit
 Replit.com
+ReverbNation
 Roblox
 Scribd
 SlideShare
@@ -24,6 +26,7 @@ Splice
 Spotify
 TryHackMe
 Velomania
+Venmo
 authorSTREAM
 dailykos
 igromania
@@ -34,3 +37,4 @@ opennet
 phpRU
 svidbook
 threads
+xHamster
