@@ -5,28 +5,29 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-CyberDefenders
+Cults3D
 Envato Forum
 GeeksforGeeks
 Giphy
 HackerEarth
 Hashnode
 Hubski
+LessWrong
 LushStories
 PepperIT
 Pornhub
 Rarible
 Reddit
 Replit.com
-ReverbNation
 Roblox
+RuneScape
 Scribd
 SlideShare
 Splice
 Spotify
+Star Citizen
 TryHackMe
 Velomania
-Venmo
 authorSTREAM
 dailykos
 igromania
@@ -37,4 +38,3 @@ opennet
 phpRU
 svidbook
 threads
-xHamster
