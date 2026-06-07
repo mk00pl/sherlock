@@ -15,17 +15,14 @@ Hubski
 LessWrong
 LushStories
 PepperIT
-Pornhub
 Rarible
 Reddit
 Replit.com
 Roblox
-RuneScape
 Scribd
 SlideShare
 Splice
 Spotify
-Star Citizen
 TryHackMe
 Velomania
 authorSTREAM
@@ -34,6 +31,7 @@ igromania
 interpals
 kaskus
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
