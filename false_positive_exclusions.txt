@@ -5,8 +5,6 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-CyberDefenders
-Eintracht Frankfurt Forum
 Envato Forum
 GeeksforGeeks
 Giphy
@@ -21,6 +19,7 @@ Reddit
 Replit.com
 Roblox
 Scribd
+Slack
 SlideShare
 Splice
 Spotify
