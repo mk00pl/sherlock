@@ -9,7 +9,6 @@ Cults3D
 Envato Forum
 GeeksforGeeks
 Giphy
-GitHub
 HackenProof (Hackers)
 HackerEarth
 Hashnode
@@ -17,7 +16,7 @@ Hubski
 LessWrong
 LushStories
 PepperIT
-Rajce.net
+Pornhub
 Rarible
 Reddit
 Replit.com
@@ -26,6 +25,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+Star Citizen
 TryHackMe
 Velomania
 authorSTREAM
@@ -38,3 +38,4 @@ opennet
 phpRU
 svidbook
 threads
+xHamster
