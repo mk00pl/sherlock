@@ -8,7 +8,6 @@ Bandcamp
 Envato Forum
 GeeksforGeeks
 Giphy
-HackenProof (Hackers)
 HackerEarth
 Hashnode
 Hubski
@@ -19,7 +18,6 @@ Rarible
 Reddit
 Replit.com
 Roblox
-RuneScape
 Scribd
 SlideShare
 Splice
