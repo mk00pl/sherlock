@@ -12,9 +12,9 @@ HackerEarth
 Hashnode
 Hubski
 LessWrong
-Lobsters
 LushStories
 PepperIT
+Pornhub
 Rarible
 Reddit
 Replit.com
@@ -23,6 +23,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+Star Citizen
 TryHackMe
 Velomania
 authorSTREAM
@@ -35,3 +36,4 @@ opennet
 phpRU
 svidbook
 threads
+xHamster
