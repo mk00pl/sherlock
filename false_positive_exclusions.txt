@@ -5,6 +5,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+CyberDefenders
 Envato Forum
 GeeksforGeeks
 Giphy
@@ -26,7 +27,6 @@ TryHackMe
 Velomania
 authorSTREAM
 dailykos
-furaffinity
 igromania
 interpals
 kaskus
