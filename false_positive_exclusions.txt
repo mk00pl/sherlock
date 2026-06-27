@@ -2,10 +2,10 @@
 Airliners
 Apple Developer
 Apple Discussions
-Archive of Our Own
 Archive.org
 ArtStation
 Bandcamp
+CyberDefenders
 Envato Forum
 GeeksforGeeks
 Giphy
@@ -26,6 +26,7 @@ Splice
 Spotify
 TryHackMe
 Velomania
+Wordnik
 authorSTREAM
 dailykos
 igromania
