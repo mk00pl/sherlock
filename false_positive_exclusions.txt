@@ -13,8 +13,10 @@ HackerEarth
 Hashnode
 Houzz
 Hubski
+Itch.io
 LessWrong
 LushStories
+OurDJTalk
 PepperIT
 Rarible
 Reddit
@@ -22,6 +24,7 @@ Replit.com
 Roblox
 Scribd
 SlideShare
+SmugMug
 Splice
 Spotify
 TryHackMe
