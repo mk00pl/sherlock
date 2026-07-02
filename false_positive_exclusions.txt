@@ -5,6 +5,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+CyberDefenders
 Envato Forum
 GeeksforGeeks
 Giphy
@@ -22,7 +23,6 @@ Reddit
 Replit.com
 Roblox
 Scribd
-Slack
 SlideShare
 Splice
 Spotify
@@ -30,6 +30,7 @@ TryHackMe
 Velomania
 authorSTREAM
 dailykos
+fixya
 igromania
 interpals
 kaskus
