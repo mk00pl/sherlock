@@ -5,10 +5,10 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-CyberDefenders
 Envato Forum
 GeeksforGeeks
 Giphy
+Gravatar
 HackerEarth
 Hashnode
 Houzz
@@ -17,7 +17,6 @@ LessWrong
 LushStories
 PCGamer
 PepperIT
-Pornhub
 Rarible
 Reddit
 Replit.com
@@ -35,6 +34,7 @@ igromania
 interpals
 kaskus
 mercadolivre
+minds
 opennet
 phpRU
 svidbook
