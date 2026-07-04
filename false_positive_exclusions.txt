@@ -5,18 +5,20 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+CyberDefenders
 Envato Forum
 GeeksforGeeks
 Giphy
-Gravatar
 HackerEarth
 Hashnode
 Houzz
 Hubski
 LessWrong
+LiveJournal
 LushStories
 PCGamer
 PepperIT
+Pornhub
 Rarible
 Reddit
 Replit.com
@@ -29,13 +31,12 @@ TryHackMe
 Velomania
 authorSTREAM
 dailykos
-fixya
 igromania
 interpals
 kaskus
 mercadolivre
-minds
 opennet
 phpRU
 svidbook
 threads
+xHamster
