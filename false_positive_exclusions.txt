@@ -6,17 +6,18 @@ Archive.org
 ArtStation
 Bandcamp
 Envato Forum
-Flipboard
 GeeksforGeeks
 Giphy
 HackerEarth
 Hashnode
 Houzz
 Hubski
+Itch.io
 LessWrong
 LushStories
 PCGamer
 PepperIT
+Pornhub
 Rarible
 Reddit
 Replit.com
@@ -29,7 +30,6 @@ TryHackMe
 Velomania
 authorSTREAM
 dailykos
-eintracht
 igromania
 interpals
 kaskus
@@ -38,3 +38,4 @@ opennet
 phpRU
 svidbook
 threads
+xHamster
