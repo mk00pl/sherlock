@@ -12,7 +12,6 @@ HackerEarth
 Hashnode
 Houzz
 Hubski
-Itch.io
 LessWrong
 LushStories
 PCGamer
@@ -38,4 +37,3 @@ opennet
 phpRU
 svidbook
 threads
-xHamster
