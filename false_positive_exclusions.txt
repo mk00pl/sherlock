@@ -5,7 +5,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-CyberDefenders
+Blogger
 Envato Forum
 GeeksforGeeks
 Giphy
@@ -13,10 +13,9 @@ HackerEarth
 Hashnode
 Houzz
 Hubski
-Itch.io
 LessWrong
+LinkedIn
 LushStories
-OurDJTalk
 PCGamer
 PepperIT
 Pornhub
