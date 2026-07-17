@@ -10,9 +10,9 @@ GeeksforGeeks
 Giphy
 HackerEarth
 Hashnode
-Houzz
 Hubski
 LessWrong
+LinkedIn
 LushStories
 PCGamer
 PepperIT
