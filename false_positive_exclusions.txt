@@ -2,10 +2,10 @@
 Airliners
 Apple Developer
 Apple Discussions
-Archive.org
 ArtStation
 Bandcamp
 CyberDefenders
+DEV Community
 Envato Forum
 GeeksforGeeks
 Giphy
@@ -13,10 +13,10 @@ HackerEarth
 Hashnode
 Hubski
 LessWrong
-LinkedIn
 LushStories
 PCGamer
 PepperIT
+Pornhub
 Rarible
 Reddit
 Replit.com
@@ -37,3 +37,4 @@ opennet
 phpRU
 svidbook
 threads
+xHamster
