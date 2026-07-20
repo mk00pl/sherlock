@@ -2,13 +2,14 @@
 Airliners
 Apple Developer
 Apple Discussions
+Archive.org
 ArtStation
 Bandcamp
 CyberDefenders
-DEV Community
 Envato Forum
 GeeksforGeeks
 Giphy
+GitHub
 HackerEarth
 Hashnode
 Hubski
@@ -25,6 +26,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 authorSTREAM
@@ -37,4 +39,3 @@ opennet
 phpRU
 svidbook
 threads
-xHamster
