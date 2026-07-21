@@ -5,15 +5,14 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-CyberDefenders
 Envato Forum
 GeeksforGeeks
 Giphy
-GitHub
 HackerEarth
 Hashnode
 Hubski
 LessWrong
+LinkedIn
 LushStories
 PCGamer
 PepperIT
@@ -39,3 +38,4 @@ opennet
 phpRU
 svidbook
 threads
+xHamster
