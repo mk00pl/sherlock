@@ -12,7 +12,6 @@ HackerEarth
 Hashnode
 Hubski
 LessWrong
-LinkedIn
 LushStories
 PCGamer
 PepperIT
@@ -22,10 +21,10 @@ Reddit
 Replit.com
 Roblox
 Scribd
+Slack
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 authorSTREAM
@@ -38,4 +37,3 @@ opennet
 phpRU
 svidbook
 threads
-xHamster
