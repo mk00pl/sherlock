@@ -5,6 +5,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+CyberDefenders
 Envato Forum
 GeeksforGeeks
 Giphy
@@ -12,6 +13,7 @@ HackerEarth
 Hashnode
 Hubski
 LessWrong
+LinkedIn
 LushStories
 PCGamer
 PepperIT
@@ -25,8 +27,8 @@ Slack
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
-Velomania
 authorSTREAM
 dailykos
 igromania
@@ -37,3 +39,4 @@ opennet
 phpRU
 svidbook
 threads
+xHamster
