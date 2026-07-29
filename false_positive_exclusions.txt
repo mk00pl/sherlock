@@ -6,12 +6,16 @@ Archive.org
 ArtStation
 Bandcamp
 Chatujme.cz
+Crevado
 Envato Forum
+F3.cool
 GeeksforGeeks
 Giphy
 HackerEarth
 Hashnode
 Hubski
+Instapaper
+Itch.io
 LessWrong
 LinkedIn
 LushStories
@@ -21,6 +25,7 @@ Rarible
 Reddit
 Replit.com
 Roblox
+Scribd
 SlideShare
 Splice
 Spotify
