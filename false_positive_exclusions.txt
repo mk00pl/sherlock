@@ -6,7 +6,6 @@ Archive.org
 ArtStation
 Bandcamp
 Chatujme.cz
-Crevado
 Envato Forum
 F3.cool
 GeeksforGeeks
@@ -15,12 +14,12 @@ HackerEarth
 Hashnode
 Hubski
 Instapaper
-Itch.io
 LessWrong
 LinkedIn
 LushStories
 PCGamer
 PepperIT
+Pornhub
 Rarible
 Reddit
 Replit.com
@@ -29,7 +28,9 @@ Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
+Velomania
 authorSTREAM
 dailykos
 igromania
