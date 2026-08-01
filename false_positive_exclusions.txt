@@ -14,11 +14,14 @@ GeeksforGeeks
 Giphy
 HackerEarth
 Hashnode
+Houzz
 Hubski
 Instapaper
 LessWrong
 LinkedIn
+LiveJournal
 LushStories
+OurDJTalk
 PCGamer
 PepperIT
 Pornhub
@@ -31,7 +34,6 @@ SlideShare
 Splice
 Spotify
 TryHackMe
-Velomania
 authorSTREAM
 dailykos
 igromania
