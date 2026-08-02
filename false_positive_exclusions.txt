@@ -19,9 +19,7 @@ Hubski
 Instapaper
 LessWrong
 LinkedIn
-LiveJournal
 LushStories
-OurDJTalk
 PCGamer
 PepperIT
 Pornhub
@@ -44,3 +42,4 @@ opennet
 phpRU
 svidbook
 threads
+xHamster
