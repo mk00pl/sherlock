@@ -7,7 +7,6 @@ ArtStation
 Bandcamp
 Blogger
 Chatujme.cz
-CyberDefenders
 Envato Forum
 F3.cool
 GeeksforGeeks
@@ -22,7 +21,6 @@ LinkedIn
 LushStories
 PCGamer
 PepperIT
-Pornhub
 Rarible
 Reddit
 Replit.com
@@ -32,9 +30,8 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
-Wordnik
+Velomania
 authorSTREAM
 dailykos
 igromania
@@ -45,4 +42,3 @@ opennet
 phpRU
 svidbook
 threads
-xHamster
