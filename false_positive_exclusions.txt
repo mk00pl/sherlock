@@ -5,14 +5,14 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
+CGTrader
 Chatujme.cz
-CyberDefenders
 Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
 HackerEarth
+HackerRank
 Hashnode
 Houzz
 Hubski
@@ -27,12 +27,15 @@ Reddit
 Replit.com
 ReverbNation
 Roblox
+Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 authorSTREAM
 dailykos
+geocaching
 igromania
 interpals
 kaskus
