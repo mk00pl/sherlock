@@ -5,7 +5,9 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 Chatujme.cz
+Cults3D
 Envato Forum
 F3.cool
 GeeksforGeeks
@@ -15,12 +17,12 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+LessWrong
 LinkedIn
 LushStories
-NitroType
-OurDJTalk
 PCGamer
 PepperIT
+Pornhub
 Rarible
 Reddit
 Replit.com
@@ -30,6 +32,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 authorSTREAM
