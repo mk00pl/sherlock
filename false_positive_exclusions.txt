@@ -7,12 +7,12 @@ ArtStation
 Bandcamp
 Blogger
 Chatujme.cz
+CyberDefenders
 Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
 HackerEarth
-HackerRank
 Hashnode
 Houzz
 Hubski
@@ -20,9 +20,11 @@ Instapaper
 LessWrong
 LinkedIn
 LushStories
+OurDJTalk
 PCGamer
 PepperIT
 Pornhub
+Pychess
 Rarible
 Reddit
 Replit.com
@@ -32,9 +34,9 @@ Scribd
 SlideShare
 Splice
 Spotify
+Star Citizen
 TryHackMe
 Velomania
-Wordnik
 authorSTREAM
 dailykos
 hunting
