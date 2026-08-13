@@ -5,9 +5,8 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 Chatujme.cz
-CyberDefenders
+Dribbble
 Envato Forum
 F3.cool
 GeeksforGeeks
@@ -17,14 +16,11 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-LessWrong
 LinkedIn
 LushStories
-OurDJTalk
 PCGamer
 PepperIT
-Pornhub
-Pychess
+Rajce.net
 Rarible
 Reddit
 Replit.com
@@ -34,7 +30,6 @@ Scribd
 SlideShare
 Splice
 Spotify
-Star Citizen
 TryHackMe
 Velomania
 authorSTREAM
