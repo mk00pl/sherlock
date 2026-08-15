@@ -13,7 +13,6 @@ GeeksforGeeks
 Giphy
 HackenProof (Hackers)
 HackerEarth
-HackerOne
 Hashnode
 Houzz
 Hubski
@@ -32,11 +31,10 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
+Velomania
 authorSTREAM
 dailykos
-eintracht
 hunting
 igromania
 interpals
@@ -46,4 +44,3 @@ opennet
 phpRU
 svidbook
 threads
-xHamster
