@@ -5,8 +5,8 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 Chatujme.cz
-Eintracht Frankfurt Forum
 Envato Forum
 F3.cool
 GeeksforGeeks
@@ -29,7 +29,7 @@ Scribd
 SlideShare
 Splice
 Spotify
-Strava
+Trakt
 TryHackMe
 Velomania
 authorSTREAM
