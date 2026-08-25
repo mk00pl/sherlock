@@ -6,6 +6,8 @@ Archive.org
 ArtStation
 Bandcamp
 Chatujme.cz
+Cults3D
+CyberDefenders
 Envato Forum
 F3.cool
 GeeksforGeeks
@@ -43,3 +45,4 @@ opennet
 phpRU
 svidbook
 threads
+xHamster
