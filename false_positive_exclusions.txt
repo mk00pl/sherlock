@@ -5,13 +5,13 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 Chatujme.cz
-Cults3D
-CyberDefenders
 Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
+HackenProof (Hackers)
 HackerEarth
 Hashnode
 Houzz
@@ -31,6 +31,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 authorSTREAM
@@ -45,4 +46,3 @@ opennet
 phpRU
 svidbook
 threads
-xHamster
