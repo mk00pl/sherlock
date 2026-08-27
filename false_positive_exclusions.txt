@@ -5,23 +5,22 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
+Championat
 Chatujme.cz
 Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
-HackenProof (Hackers)
 HackerEarth
 Hashnode
 Houzz
 Hubski
 Instapaper
 LinkedIn
+LiveJournal
 LushStories
 PCGamer
 PepperIT
-Pornhub
 Rarible
 Reddit
 Replit.com
@@ -31,7 +30,6 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 authorSTREAM
