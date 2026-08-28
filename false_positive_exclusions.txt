@@ -17,10 +17,11 @@ Houzz
 Hubski
 Instapaper
 LinkedIn
-LiveJournal
 LushStories
+Open Collective
 PCGamer
 PepperIT
+Pornhub
 Rarible
 Reddit
 Replit.com
@@ -30,6 +31,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 authorSTREAM
@@ -44,3 +46,4 @@ opennet
 phpRU
 svidbook
 threads
+xHamster
