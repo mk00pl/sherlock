@@ -21,7 +21,6 @@ LushStories
 Open Collective
 PCGamer
 PepperIT
-Pornhub
 Rarible
 Reddit
 Replit.com
@@ -46,4 +45,3 @@ opennet
 phpRU
 svidbook
 threads
-xHamster
