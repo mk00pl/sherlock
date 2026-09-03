@@ -7,7 +7,6 @@ ArtStation
 Bandcamp
 Championat
 Chatujme.cz
-Cults3D
 Envato Forum
 F3.cool
 GeeksforGeeks
@@ -24,7 +23,6 @@ PCGamer
 PepperIT
 Rarible
 Reddit
-Replit.com
 ReverbNation
 Roblox
 Scribd
@@ -36,6 +34,7 @@ TryHackMe
 Velomania
 authorSTREAM
 dailykos
+eintracht
 fixya
 hunting
 igromania
