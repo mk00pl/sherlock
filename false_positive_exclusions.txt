@@ -11,7 +11,6 @@ ChaturBate
 Envato Forum
 GeeksforGeeks
 Giphy
-GitHub
 HackerEarth
 Hashnode
 Houzz
@@ -23,7 +22,6 @@ Open Collective
 PCGamer
 PepperIT
 Pornhub
-Rarible
 Reddit
 ReverbNation
 Roblox
@@ -44,6 +42,7 @@ kaskus
 mercadolivre
 opennet
 phpRU
+social.tchncs.de
 svidbook
 threads
 xHamster
