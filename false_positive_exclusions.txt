@@ -8,7 +8,7 @@ Bandcamp
 Championat
 Chatujme.cz
 ChaturBate
-Eintracht Frankfurt Forum
+Dribbble
 Envato Forum
 GeeksforGeeks
 Giphy
@@ -23,7 +23,7 @@ Open Collective
 PCGamer
 PepperIT
 Pornhub
-Rajce.net
+Pychess
 Rarible
 Reddit
 ReverbNation
@@ -48,4 +48,3 @@ phpRU
 social.tchncs.de
 svidbook
 threads
-xHamster
