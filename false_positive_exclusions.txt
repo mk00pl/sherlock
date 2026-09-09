@@ -6,7 +6,6 @@ Archive.org
 ArtStation
 Bandcamp
 Championat
-Chatujme.cz
 Envato Forum
 GeeksforGeeks
 Giphy
@@ -18,6 +17,7 @@ Instapaper
 LinkedIn
 LushStories
 Open Collective
+OurDJTalk
 PCGamer
 PepperIT
 Rarible
@@ -28,6 +28,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+Star Citizen
 Trakt
 TryHackMe
 Velomania
