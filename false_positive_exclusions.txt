@@ -7,11 +7,14 @@ ArtStation
 Bandcamp
 Championat
 Chatujme.cz
+ChaturBate
+ColourLovers
 CyberDefenders
 Envato Forum
 GeeksforGeeks
 Giphy
 HackerEarth
+HackerRank
 Hashnode
 Houzz
 Hubski
@@ -21,6 +24,7 @@ LushStories
 Open Collective
 PCGamer
 PepperIT
+Pornhub
 Rarible
 Reddit
 ReverbNation
@@ -34,7 +38,6 @@ TryHackMe
 Velomania
 authorSTREAM
 dailykos
-eintracht
 fixya
 hunting
 igromania
