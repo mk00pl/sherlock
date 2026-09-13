@@ -8,7 +8,6 @@ Bandcamp
 Championat
 Chatujme.cz
 ChaturBate
-ColourLovers
 Envato Forum
 GeeksforGeeks
 Giphy
@@ -47,3 +46,4 @@ phpRU
 social.tchncs.de
 svidbook
 threads
+xHamster
