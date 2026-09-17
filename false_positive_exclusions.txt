@@ -9,7 +9,6 @@ CGTrader
 Championat
 Chatujme.cz
 ChaturBate
-CyberDefenders
 Envato Forum
 GeeksforGeeks
 Giphy
@@ -18,8 +17,8 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+LessWrong
 LinkedIn
-Lobsters
 LushStories
 Open Collective
 PCGamer
@@ -29,11 +28,11 @@ Rarible
 Reddit
 ReverbNation
 Roblox
+RuneScape
 Scribd
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 authorSTREAM
@@ -49,3 +48,4 @@ phpRU
 social.tchncs.de
 svidbook
 threads
+xHamster
