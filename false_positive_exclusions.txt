@@ -8,7 +8,6 @@ Bandcamp
 CGTrader
 Championat
 Chatujme.cz
-ChaturBate
 Envato Forum
 GeeksforGeeks
 Giphy
@@ -23,16 +22,15 @@ LushStories
 Open Collective
 PCGamer
 PepperIT
-Pornhub
 Rarible
 Reddit
 ReverbNation
 Roblox
-RuneScape
 Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 authorSTREAM
@@ -48,4 +46,3 @@ phpRU
 social.tchncs.de
 svidbook
 threads
-xHamster
