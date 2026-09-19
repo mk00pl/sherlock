@@ -8,6 +8,7 @@ Bandcamp
 CGTrader
 Championat
 Chatujme.cz
+Cults3D
 Envato Forum
 GeeksforGeeks
 Giphy
@@ -18,6 +19,7 @@ Hubski
 Instapaper
 LessWrong
 LinkedIn
+LiveJournal
 LushStories
 Open Collective
 PCGamer
