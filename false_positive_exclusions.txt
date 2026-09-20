@@ -8,7 +8,7 @@ Bandcamp
 CGTrader
 Championat
 Chatujme.cz
-Cults3D
+CyberDefenders
 Envato Forum
 GeeksforGeeks
 Giphy
@@ -19,7 +19,6 @@ Hubski
 Instapaper
 LessWrong
 LinkedIn
-LiveJournal
 LushStories
 Open Collective
 PCGamer
@@ -28,7 +27,6 @@ Rarible
 Reddit
 ReverbNation
 Roblox
-Scribd
 SlideShare
 Splice
 Spotify
