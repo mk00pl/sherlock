@@ -5,13 +5,12 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-CGTrader
 Championat
-Chatujme.cz
 CyberDefenders
 Envato Forum
 GeeksforGeeks
 Giphy
+Gravatar
 HackerEarth
 Hashnode
 Houzz
@@ -27,10 +26,10 @@ Rarible
 Reddit
 ReverbNation
 Roblox
+Scribd
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 authorSTREAM
