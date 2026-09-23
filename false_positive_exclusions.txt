@@ -10,6 +10,7 @@ Championat
 Chatujme.cz
 ChaturBate
 Envato Forum
+Forum Ophilia
 GeeksforGeeks
 Giphy
 HackerEarth
@@ -19,6 +20,7 @@ Hubski
 Instapaper
 LessWrong
 LinkedIn
+Linktree
 LushStories
 Open Collective
 PCGamer
@@ -32,6 +34,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 authorSTREAM
@@ -47,3 +50,4 @@ phpRU
 social.tchncs.de
 svidbook
 threads
+xHamster
