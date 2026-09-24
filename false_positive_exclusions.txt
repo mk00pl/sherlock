@@ -9,8 +9,8 @@ CGTrader
 Championat
 Chatujme.cz
 ChaturBate
+CyberDefenders
 Envato Forum
-Forum Ophilia
 GeeksforGeeks
 Giphy
 HackerEarth
@@ -34,6 +34,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+Strava
 Trakt
 TryHackMe
 Velomania
