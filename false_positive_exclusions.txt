@@ -5,11 +5,10 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 CGTrader
 Championat
 Chatujme.cz
-ChaturBate
-CyberDefenders
 Envato Forum
 GeeksforGeeks
 Giphy
@@ -25,7 +24,6 @@ LushStories
 Open Collective
 PCGamer
 PepperIT
-Pornhub
 Rarible
 Reddit
 ReverbNation
@@ -34,10 +32,8 @@ Scribd
 SlideShare
 Splice
 Spotify
-Strava
 Trakt
 TryHackMe
-Velomania
 authorSTREAM
 dailykos
 fixya
@@ -51,4 +47,3 @@ phpRU
 social.tchncs.de
 svidbook
 threads
-xHamster
