@@ -6,9 +6,9 @@ Archive.org
 ArtStation
 Bandcamp
 Blogger
-CGTrader
 Championat
 Chatujme.cz
+ChaturBate
 Envato Forum
 GeeksforGeeks
 Giphy
@@ -24,6 +24,7 @@ LushStories
 Open Collective
 PCGamer
 PepperIT
+Pornhub
 Rarible
 Reddit
 ReverbNation
@@ -34,6 +35,7 @@ Splice
 Spotify
 Trakt
 TryHackMe
+Velomania
 authorSTREAM
 dailykos
 fixya
@@ -47,3 +49,4 @@ phpRU
 social.tchncs.de
 svidbook
 threads
+xHamster
