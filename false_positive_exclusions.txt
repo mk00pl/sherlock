@@ -5,21 +5,19 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 CGTrader
 Championat
 Chatujme.cz
 ChaturBate
-CyberDefenders
 Envato Forum
 GeeksforGeeks
 Giphy
-GitHub
 HackerEarth
 Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
 LessWrong
 LinkedIn
 Linktree
@@ -36,6 +34,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 authorSTREAM
