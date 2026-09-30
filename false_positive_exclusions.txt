@@ -5,11 +5,11 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 CGTrader
 Championat
 Chatujme.cz
 ChaturBate
+CyberDefenders
 Envato Forum
 GeeksforGeeks
 Giphy
@@ -34,7 +34,6 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 authorSTREAM
@@ -50,3 +49,4 @@ phpRU
 social.tchncs.de
 svidbook
 threads
+xHamster
