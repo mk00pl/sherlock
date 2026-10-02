@@ -7,12 +7,15 @@ ArtStation
 Bandcamp
 Blogger
 CGTrader
+Carbonmade
 Championat
 Chatujme.cz
 ChaturBate
+CyberDefenders
 Envato Forum
 GeeksforGeeks
 Giphy
+GitHub
 HackerEarth
 HackerNews
 Hashnode
@@ -51,3 +54,4 @@ phpRU
 social.tchncs.de
 svidbook
 threads
+xHamster
