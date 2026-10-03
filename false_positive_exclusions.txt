@@ -7,15 +7,11 @@ ArtStation
 Bandcamp
 Blogger
 CGTrader
-Carbonmade
 Championat
 Chatujme.cz
-ChaturBate
-CyberDefenders
 Envato Forum
 GeeksforGeeks
 Giphy
-GitHub
 HackerEarth
 HackerNews
 Hashnode
@@ -29,7 +25,6 @@ LushStories
 Open Collective
 PCGamer
 PepperIT
-Pornhub
 Rarible
 Reddit
 ReverbNation
@@ -38,7 +33,6 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 authorSTREAM
@@ -54,4 +48,3 @@ phpRU
 social.tchncs.de
 svidbook
 threads
-xHamster
