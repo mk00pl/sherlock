@@ -5,10 +5,12 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 CGTrader
 Championat
 Chatujme.cz
 ChaturBate
+Dribbble
 Envato Forum
 GaiaOnline
 GeeksforGeeks
@@ -51,3 +53,4 @@ phpRU
 social.tchncs.de
 svidbook
 threads
+xHamster
