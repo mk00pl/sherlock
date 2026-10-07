@@ -8,7 +8,7 @@ Bandcamp
 CGTrader
 Championat
 Chatujme.cz
-ChaturBate
+CyberDefenders
 Envato Forum
 GaiaOnline
 GeeksforGeeks
@@ -22,11 +22,11 @@ Instapaper
 LessWrong
 LinkedIn
 Linktree
+LiveJournal
 LushStories
 Open Collective
 PCGamer
 PepperIT
-Pornhub
 Rarible
 Reddit
 ReverbNation
@@ -35,7 +35,6 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 authorSTREAM
