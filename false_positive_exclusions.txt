@@ -5,7 +5,6 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 CGTrader
 Championat
 Chatujme.cz
@@ -14,6 +13,7 @@ Envato Forum
 GaiaOnline
 GeeksforGeeks
 Giphy
+Google Play
 HackerEarth
 HackerNews
 Hashnode
@@ -27,7 +27,6 @@ LushStories
 Open Collective
 PCGamer
 PepperIT
-Pornhub
 Rarible
 Reddit
 ReverbNation
@@ -42,6 +41,7 @@ Velomania
 authorSTREAM
 dailykos
 fixya
+furaffinity
 hunting
 igromania
 interpals
@@ -52,3 +52,4 @@ phpRU
 social.tchncs.de
 svidbook
 threads
+xHamster
