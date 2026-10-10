@@ -5,6 +5,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 CGTrader
 Championat
 Chatujme.cz
@@ -13,7 +14,6 @@ Envato Forum
 GaiaOnline
 GeeksforGeeks
 Giphy
-Google Play
 HackerEarth
 HackerNews
 Hashnode
@@ -27,6 +27,7 @@ LushStories
 Open Collective
 PCGamer
 PepperIT
+Pornhub
 Rarible
 Reddit
 ReverbNation
@@ -38,10 +39,11 @@ Spotify
 Trakt
 TryHackMe
 Velomania
+Wix
 authorSTREAM
 dailykos
+eintracht
 fixya
-furaffinity
 hunting
 igromania
 interpals
