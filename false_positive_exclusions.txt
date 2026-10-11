@@ -5,11 +5,11 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 CGTrader
 Championat
 Chatujme.cz
 ChaturBate
+CyberDefenders
 Envato Forum
 GaiaOnline
 GeeksforGeeks
@@ -23,6 +23,7 @@ Instapaper
 LessWrong
 LinkedIn
 Linktree
+LiveJournal
 LushStories
 Open Collective
 PCGamer
@@ -39,13 +40,11 @@ Spotify
 Trakt
 TryHackMe
 Velomania
-Wix
 authorSTREAM
 dailykos
-eintracht
 fixya
+fl
 hunting
-igromania
 interpals
 kaskus
 mercadolivre
@@ -54,4 +53,3 @@ phpRU
 social.tchncs.de
 svidbook
 threads
-xHamster
