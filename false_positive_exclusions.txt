@@ -7,6 +7,9 @@ ArtStation
 Bandcamp
 CGTrader
 Championat
+Chatujme.cz
+ChaturBate
+CyberDefenders
 Envato Forum
 GaiaOnline
 GeeksforGeeks
@@ -20,11 +23,12 @@ Instapaper
 LessWrong
 LinkedIn
 Linktree
-LiveJournal
 LushStories
 Open Collective
+OurDJTalk
 PCGamer
 PepperIT
+Pornhub
 Rarible
 Reddit
 ReverbNation
@@ -39,7 +43,6 @@ Velomania
 authorSTREAM
 dailykos
 fixya
-fl
 hunting
 interpals
 kaskus
