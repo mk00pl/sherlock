@@ -9,7 +9,7 @@ Blogger
 CGTrader
 Championat
 Chatujme.cz
-CyberDefenders
+ChaturBate
 Envato Forum
 GaiaOnline
 GeeksforGeeks
@@ -27,6 +27,7 @@ LushStories
 Open Collective
 PCGamer
 PepperIT
+Pornhub
 Rarible
 Reddit
 ReverbNation
@@ -50,3 +51,4 @@ phpRU
 social.tchncs.de
 svidbook
 threads
+xHamster
