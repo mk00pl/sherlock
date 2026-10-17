@@ -19,6 +19,7 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 LessWrong
 LinkedIn
 Linktree
@@ -41,7 +42,6 @@ Velomania
 authorSTREAM
 dailykos
 fixya
-hunting
 interpals
 kaskus
 mercadolivre
