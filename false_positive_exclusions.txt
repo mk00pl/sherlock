@@ -8,9 +8,8 @@ Bandcamp
 CGTrader
 Championat
 Chatujme.cz
-CyberDefenders
+ChaturBate
 Envato Forum
-Flipboard
 GaiaOnline
 GeeksforGeeks
 Giphy
@@ -20,7 +19,6 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
 LessWrong
 LinkedIn
 Linktree
@@ -28,6 +26,7 @@ LushStories
 Open Collective
 PCGamer
 PepperIT
+Pornhub
 Rarible
 Reddit
 ReverbNation
@@ -51,3 +50,4 @@ phpRU
 social.tchncs.de
 svidbook
 threads
+xHamster
