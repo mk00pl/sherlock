@@ -5,6 +5,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 CGTrader
 Championat
 Chatujme.cz
@@ -31,6 +32,7 @@ Rarible
 Reddit
 ReverbNation
 Roblox
+RuneScape
 Scribd
 SlideShare
 Splice
@@ -50,4 +52,3 @@ phpRU
 social.tchncs.de
 svidbook
 threads
-xHamster
