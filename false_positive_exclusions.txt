@@ -5,12 +5,9 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blipfoto
 CGTrader
 Championat
 Chatujme.cz
-ChaturBate
-CyberDefenders
 Envato Forum
 GaiaOnline
 GeeksforGeeks
@@ -36,20 +33,16 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 authorSTREAM
 dailykos
 fixya
-furaffinity
 hunting
 interpals
-kaskus
 mercadolivre
 opennet
 phpRU
 social.tchncs.de
 svidbook
 threads
-xHamster
