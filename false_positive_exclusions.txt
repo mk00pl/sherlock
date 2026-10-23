@@ -5,9 +5,11 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 CGTrader
 Championat
 Chatujme.cz
+ChaturBate
 Envato Forum
 GaiaOnline
 GeeksforGeeks
@@ -23,6 +25,7 @@ LinkedIn
 Linktree
 LushStories
 Open Collective
+OurDJTalk
 PCGamer
 PepperIT
 Rarible
@@ -40,9 +43,11 @@ dailykos
 fixya
 hunting
 interpals
+kaskus
 mercadolivre
 opennet
 phpRU
 social.tchncs.de
 svidbook
 threads
+xHamster
