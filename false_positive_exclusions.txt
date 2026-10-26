@@ -8,7 +8,7 @@ Bandcamp
 CGTrader
 Championat
 Chatujme.cz
-CyberDefenders
+ChaturBate
 Envato Forum
 GaiaOnline
 GeeksforGeeks
@@ -37,7 +37,6 @@ Spotify
 Trakt
 TryHackMe
 Velomania
-Venmo
 authorSTREAM
 dailykos
 fixya
@@ -50,3 +49,4 @@ phpRU
 social.tchncs.de
 svidbook
 threads
+xHamster
