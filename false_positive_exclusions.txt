@@ -1,14 +1,11 @@
-7Cups
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-CGTrader
 Championat
 Chatujme.cz
-ChaturBate
 Envato Forum
 GaiaOnline
 GeeksforGeeks
@@ -19,6 +16,7 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 LessWrong
 LinkedIn
 Linktree
@@ -49,4 +47,3 @@ phpRU
 social.tchncs.de
 svidbook
 threads
-xHamster
