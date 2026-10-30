@@ -34,7 +34,6 @@ Splice
 Spotify
 Trakt
 TryHackMe
-Velomania
 Vero
 authorSTREAM
 dailykos
@@ -43,6 +42,7 @@ hunting
 interpals
 kaskus
 mercadolivre
+nnRU
 opennet
 phpRU
 social.tchncs.de
