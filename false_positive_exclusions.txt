@@ -42,7 +42,6 @@ hunting
 interpals
 kaskus
 mercadolivre
-nnRU
 opennet
 phpRU
 social.tchncs.de
