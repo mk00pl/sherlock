@@ -11,6 +11,7 @@ Envato Forum
 GaiaOnline
 GeeksforGeeks
 Giphy
+Gravatar
 HackerEarth
 HackerNews
 Hashnode
