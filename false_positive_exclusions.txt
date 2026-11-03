@@ -1,18 +1,14 @@
 Airliners
 Apple Developer
-Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 Championat
 Chatujme.cz
-ChaturBate
 Envato Forum
 GaiaOnline
 GeeksforGeeks
 Giphy
-GitHub
 HackerEarth
 HackerNews
 Hashnode
@@ -26,11 +22,13 @@ LushStories
 Open Collective
 PCGamer
 PepperIT
+Rarible
 Reddit
 ReverbNation
 Roblox
 Scribd
 SlideShare
+Snapchat
 Splice
 Spotify
 TryHackMe
@@ -48,4 +46,3 @@ phpRU
 social.tchncs.de
 svidbook
 threads
-xHamster
