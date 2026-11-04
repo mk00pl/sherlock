@@ -1,10 +1,12 @@
 Airliners
 Apple Developer
+Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
 Championat
 Chatujme.cz
+ChaturBate
 Envato Forum
 GaiaOnline
 GeeksforGeeks
@@ -28,7 +30,6 @@ ReverbNation
 Roblox
 Scribd
 SlideShare
-Snapchat
 Splice
 Spotify
 TryHackMe
@@ -38,6 +39,7 @@ authorSTREAM
 dailykos
 fixya
 hunting
+igromania
 interpals
 kaskus
 mercadolivre
@@ -46,3 +48,4 @@ phpRU
 social.tchncs.de
 svidbook
 threads
+xHamster
