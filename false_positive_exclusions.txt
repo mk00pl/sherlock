@@ -32,6 +32,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Vero
@@ -47,4 +48,3 @@ opennet
 phpRU
 social.tchncs.de
 threads
-xHamster
