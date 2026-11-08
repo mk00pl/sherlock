@@ -2,24 +2,19 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-ArtStation
-Bandcamp
+Blogger
 Championat
 Chatujme.cz
-Envato Forum
+CyberDefenders
 GaiaOnline
 GeeksforGeeks
-Giphy
 HackerEarth
 HackerNews
 Hashnode
-Houzz
 Hubski
 Instapaper
-Itch.io
 LessWrong
 LinkedIn
-Linktree
 LushStories
 Open Collective
 PCGamer
@@ -32,6 +27,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Vero
