@@ -2,7 +2,6 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Carbonmade
 Championat
 Chatujme.cz
 GaiaOnline
@@ -11,19 +10,19 @@ HackerEarth
 HackerNews
 Hashnode
 Hubski
-Image Fap
 Instapaper
+Itch.io
 LessWrong
 LinkedIn
 LushStories
 Open Collective
-Outgress
 PCGamer
 PepperIT
 Rarible
 Reddit
 ReverbNation
 Roblox
+RuneScape
 Scribd
 SlideShare
 Splice
