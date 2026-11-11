@@ -4,6 +4,7 @@ Apple Discussions
 Archive.org
 Championat
 Chatujme.cz
+CyberDefenders
 GaiaOnline
 GeeksforGeeks
 HackerEarth
@@ -11,7 +12,6 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
-Itch.io
 LessWrong
 LinkedIn
 LushStories
@@ -22,7 +22,6 @@ Rarible
 Reddit
 ReverbNation
 Roblox
-RuneScape
 Scribd
 SlideShare
 Splice
@@ -43,3 +42,4 @@ opennet
 phpRU
 social.tchncs.de
 threads
+xHamster
