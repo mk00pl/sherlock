@@ -30,7 +30,6 @@ Trakt
 TryHackMe
 Velomania
 Vero
-authorSTREAM
 dailykos
 fixya
 hunting
