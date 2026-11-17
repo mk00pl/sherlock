@@ -4,8 +4,10 @@ Apple Discussions
 Archive.org
 Championat
 Chatujme.cz
+CyberDefenders
 GaiaOnline
 GeeksforGeeks
+GitBook
 HackerEarth
 HackerNews
 Hashnode
@@ -13,7 +15,9 @@ Hubski
 Instapaper
 LessWrong
 LinkedIn
+Linktree
 LushStories
+Minecraft
 Open Collective
 PCGamer
 PepperIT
@@ -40,4 +44,3 @@ opennet
 phpRU
 social.tchncs.de
 threads
-xHamster
