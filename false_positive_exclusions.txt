@@ -2,12 +2,11 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+Blogger
 Championat
 Chatujme.cz
-CyberDefenders
 GaiaOnline
 GeeksforGeeks
-GitBook
 HackerEarth
 HackerNews
 Hashnode
@@ -16,8 +15,8 @@ Instapaper
 LessWrong
 LinkedIn
 Linktree
+LiveJournal
 LushStories
-Minecraft
 Open Collective
 PCGamer
 PepperIT
