@@ -2,9 +2,8 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Blogger
-Championat
 Chatujme.cz
+Fosstodon
 GaiaOnline
 GeeksforGeeks
 HackerEarth
@@ -15,7 +14,6 @@ Instapaper
 LessWrong
 LinkedIn
 Linktree
-LiveJournal
 LushStories
 Open Collective
 PCGamer
@@ -28,6 +26,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Vero
