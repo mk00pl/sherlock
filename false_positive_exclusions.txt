@@ -3,7 +3,6 @@ Apple Developer
 Apple Discussions
 Archive.org
 Chatujme.cz
-Fosstodon
 GaiaOnline
 GeeksforGeeks
 HackerEarth
