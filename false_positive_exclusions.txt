@@ -28,6 +28,7 @@ Spotify
 Trakt
 TryHackMe
 Velomania
+Venmo
 Vero
 authorSTREAM
 dailykos
@@ -41,3 +42,4 @@ opennet
 phpRU
 social.tchncs.de
 threads
+xHamster
