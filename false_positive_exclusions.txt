@@ -3,10 +3,12 @@ Apple Developer
 Apple Discussions
 Archive.org
 Chatujme.cz
+CyberDefenders
 GaiaOnline
 GeeksforGeeks
 HackerEarth
 HackerNews
+HackerRank
 Hashnode
 Hubski
 Instapaper
@@ -28,7 +30,6 @@ Spotify
 Trakt
 TryHackMe
 Velomania
-Venmo
 Vero
 authorSTREAM
 dailykos
@@ -42,4 +43,3 @@ opennet
 phpRU
 social.tchncs.de
 threads
-xHamster
