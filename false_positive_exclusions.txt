@@ -8,7 +8,6 @@ GaiaOnline
 GeeksforGeeks
 HackerEarth
 HackerNews
-HackerRank
 Hashnode
 Hubski
 Instapaper
@@ -27,7 +26,6 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 Vero
