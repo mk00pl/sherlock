@@ -3,14 +3,15 @@ Apple Developer
 Apple Discussions
 Archive.org
 Blogger
+CTAN
 Chatujme.cz
-CyberDefenders
 GaiaOnline
 GeeksforGeeks
 HackerEarth
 HackerNews
 Hashnode
 Hubski
+Image Fap
 Instapaper
 LessWrong
 LinkedIn
@@ -19,7 +20,6 @@ LushStories
 Open Collective
 PCGamer
 PepperIT
-Rajce.net
 Rarible
 Reddit
 ReverbNation
