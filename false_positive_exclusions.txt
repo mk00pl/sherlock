@@ -3,7 +3,6 @@ Apple Developer
 Apple Discussions
 Archive.org
 Blogger
-CTAN
 Chatujme.cz
 GaiaOnline
 GeeksforGeeks
@@ -11,13 +10,14 @@ HackerEarth
 HackerNews
 Hashnode
 Hubski
-Image Fap
 Instapaper
 LessWrong
 LinkedIn
 Linktree
+LiveJournal
 LushStories
 Open Collective
+OurDJTalk
 PCGamer
 PepperIT
 Rarible
